@@ -1,4 +1,4 @@
-#Olá, eu sou Caio Rodrigues, esse Projeto foi feito com a finalidade de praticar conceitos do front-end
+# Olá, eu sou Caio Rodrigues, esse Projeto foi feito com a finalidade de praticar conceitos do front-end
 
 como já dito esse projeto foi feito com a finalidade de praticar os conceitos de front-end recriando algumas telas do Instagram. 
 
