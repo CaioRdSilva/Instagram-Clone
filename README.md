@@ -19,8 +19,3 @@ como já dito esse projeto foi feito com a finalidade de praticar os conceitos d
 * Recriação e página
 * Linkagem interna e externa
 * Responsividade
-
-
-### contatos para criticas e dicas:
-Whatsapp: (81) 985041281
-E-mail: caiodrs.silva@gmail.com
